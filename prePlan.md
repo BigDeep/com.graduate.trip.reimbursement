@@ -1,8 +1,8 @@
 # MayDayTrip
 
-## 代号：HPFO
-代号解释：happy 51劳动节行动计划
+## daihao：HPFO
+daihao explain：happy five one MayDay plan
 
 
-- 1.where?
+- 1.where?(target:wuhan/beihai)
 - 2.how?
